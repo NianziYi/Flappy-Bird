@@ -1,8 +1,4 @@
-# csc413-SecondGame
-
-## Student Name  : Nianzi Yi
-## Student ID    : 918291821
-
+# Flappy-Bird
 
 ## src folder is to be used to store source code only.
 
